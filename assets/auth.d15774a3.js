@@ -1,4 +1,4 @@
-import{h as s,u as n}from"./common.0943b71f.js";import{d as c,r as i,o as u,c as d,a as l,u as m}from"./vendor.f3d58d0b.js";const g=()=>s.get("/auth/login",{withCredentials:!0}).then(e=>e.data),h=["innerHTML"],_=c({__name:"Login",setup(e){const a=m(),o=i("Logando.."),{loader:t}=n();return t(g).then(r=>{if(!r)throw new Error;a.push({name:"preregistrations"})}).catch(()=>{o.value=`
+import{h as s,u as n}from"./common.7bcb253c.js";import{d as c,r as i,o as u,c as d,a as l,u as m}from"./vendor.f7b4225f.js";const g=()=>s.get("/auth/login",{withCredentials:!0}).then(e=>e.data),h=["innerHTML"],_=c({__name:"Login",setup(e){const a=m(),o=i("Logando.."),{loader:t}=n();return t(g).then(r=>{if(!r)throw new Error;a.push({name:"preregistrations"})}).catch(()=>{o.value=`
       O login de acesso no <strong>Pr\xE9-matr\xEDcula Digital</strong> \xE9 exclusivo para secret\xE1rios e diretores escolares,
       ou gestores da Secretaria de Educa\xE7\xE3o.
       <br>
