@@ -1,4 +1,4 @@
-import{g as S,a as $,o as M,i as B,n as F,e as k,_ as L,m as T,U as G,V as U,W as j,Y as I}from"./common.7bcb253c.js";import{d as O,r as l,g as v,H as P,o as A,c as X,a as t,A as n,C as d,Z as Y,p as h,z as H,t as y,s as K}from"./vendor.f7b4225f.js";const W=()=>S({query:`
+import{g as S,a as $,o as M,i as B,n as F,e as k,_ as L,m as T,U as G,V as U,W as j,Y as I}from"./common.a40f3e2f.js";import{d as O,r as l,g as v,H as P,o as A,c as X,a as t,A as n,C as d,Z as Y,p as h,z as H,t as y,s as K}from"./vendor.5ec4ebb3.js";const W=()=>S({query:`
       {
         processes(
           first: 100

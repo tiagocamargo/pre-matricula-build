@@ -1,4 +1,4 @@
-import{g as s,a0 as d}from"../../common.7bcb253c.js";import{m as n}from"../../vendor.f7b4225f.js";const p=a=>s({variables:a,query:`
+import{g as s,a0 as d}from"../../common.a40f3e2f.js";import{m as n}from"../../vendor.5ec4ebb3.js";const p=a=>s({variables:a,query:`
       query process($id: ID!) {
         stage: processByStage(id: $id) {
           id

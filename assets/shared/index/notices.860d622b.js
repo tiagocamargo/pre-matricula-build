@@ -1,4 +1,4 @@
-import{g as o}from"../../common.7bcb253c.js";const i=()=>o({query:`
+import{g as o}from"../../common.a40f3e2f.js";const i=()=>o({query:`
       query{
         notices {
           data {

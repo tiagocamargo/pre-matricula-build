@@ -1,4 +1,4 @@
-import{g as o,Z as p,$ as l,K as y}from"../../common.7bcb253c.js";const m=()=>o({query:`
+import{g as o,Z as p,$ as l,K as y}from"../../common.a40f3e2f.js";const m=()=>o({query:`
       {
         processes(
           first: 100
